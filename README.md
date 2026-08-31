@@ -8,7 +8,7 @@ The main objective is to identify customer churn patterns, retention performance
 
 ## Dashboard
 
-![Customer Retention Analytics Dashboard](dashboard.png)
+![Customer Retention Analytics Dashboard](final_dashboard.png)
 
 ## Key Performance Indicators
 
